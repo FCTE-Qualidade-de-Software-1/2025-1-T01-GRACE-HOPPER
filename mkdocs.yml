@@ -32,3 +32,6 @@ nav:
           - Python Virtual Environment: setup/python-venv-setup.md
           - Publishing Guide: setup/publishing-guide.md
       - README: setup/readme.md
+
+markdown_extensions:
+  - attr_list
