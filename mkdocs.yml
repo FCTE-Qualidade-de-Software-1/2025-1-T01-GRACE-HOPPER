@@ -1,0 +1,34 @@
+site_name: T01 - Qualidade de Software
+theme:
+  name: material
+  palette:
+    scheme: default
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.expand
+    - navigation.instant
+    - navigation.tracking
+    - navigation.search.highlight
+    - navigation.search.suggest
+    - navigation.search.share
+    - navigation.search.highlight
+    - navigation.search.suggest
+    - navigation.search.share
+    - toc.integrate
+  
+nav:
+  - Home: index.md
+  - Goal Question Metrics: gqm.md
+  - Setup & Configuration:
+      - MkDocs:
+          - MkDocs Configuration: setup/mkdocs-configuration.md
+          - MkDocs Setup: setup/mkdocs-setup.md
+      - Environment Setup:
+          - Python Virtual Environment: setup/python-venv-setup.md
+          - Publishing Guide: setup/publishing-guide.md
+      - README: setup/readme.md
