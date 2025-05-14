@@ -18,4 +18,4 @@ Este é o repositório de documentação da equipe Grace Hopper.
 
 | Date       | Version | Changes                      | Author                                                              | Matrícula | % de Contribuição |
 | ---------- | ------- | ---------------------------- | ------------------------------------------------------------------- | --------- | ----------------- |
-| 13/05/2025 | 0.1     | Create initial documentation | [Lucas Antunes]([Lucas Antunes](https://github.com/LucasGSAntunes)) | 190091681 | --%               |
+| 13/05/2025 | 0.1     | Create initial documentation | [Lucas Antunes](https://github.com/LucasGSAntunes) | 190091681 | --%               |
