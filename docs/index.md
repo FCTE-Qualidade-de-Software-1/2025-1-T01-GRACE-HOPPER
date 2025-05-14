@@ -16,7 +16,13 @@ Este é o repositório de documentação da equipe Grace Hopper da UnB.
 
 ## Histórico de Versão
 
-| Date       | Version | Changes                      | Author                                                              | Matrícula | % de Contribuição |
-| ---------- | ------- | ---------------------------- | ------------------------------------------------------------------- | --------- | ----------------- |
-| 13/05/2025 | 0.1     | Create initial documentation | [Lucas Antunes](https://github.com/LucasGSAntunes) | 190091681 | --%               |
-| 13/05/2025 | 0.1     | Definição do Objetivo do Agromart | [Túlio Celeri](https://github.com/TulioCeleri) | 222026715 | --%               |
+| Date       | Version | Changes                      | Author                                              | Matrícula | % de Contribuição |
+| ---------- | ------- | ---------------------------- | --------------------------------------------------- | --------- | ----------------- |
+| 13/05/2025 | 0.1     | Create initial documentation | [Lucas Antunes](https://github.com/LucasGSAntunes)  | 190091681 | --%               |
+| 14/05/2025 | 0.2     | Create Goal Question Metrics |                                                     |           | **100%**                  |
+|            |         |                              | [Lucas Antunes](https://github.com/LucasGSAntunes)  | 190091681 | 16%               |
+|            |         |                              | [Túlio Celeri](https://github.com/TulioCeleri)      | 222026715 | 16%               |
+|            |         |                              | [João Paulo](https://github.com/joaombc)            | 202045141 | 16%               |
+|            |         |                              | [Pedro Ferreira Gondim](https://github.com/G0ndim)  | 222026377 | 16%               |
+|            |         |                              | [João Pedro](https://github.com/JoaoPedrooSS)       | 222006258 | 16%               |
+|            |         |                              | [Pedro Ferreira Gondim](https://github.com/guinuto) | 200038028 | 16%               |

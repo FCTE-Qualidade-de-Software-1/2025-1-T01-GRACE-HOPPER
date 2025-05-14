@@ -171,10 +171,11 @@ A solução tecnológica denominada Agromart foi desenvolvida para facilitar a r
 
 | Date       | Version | Changes                                        | Author                                              | Matrícula | % de Contribuição |
 | ---------- | ------- | ---------------------------------------------- | --------------------------------------------------- | --------- | ----------------- |
-| 13/05/2025 | 0.1     | Create, format and review documentation        | [Lucas Antunes](https://github.com/LucasGSAntunes)  | 190091681 | 16%               |
-| 13/05/2025 | 0.1     | Definição do Objetivo do Agromart - Introdução | [Túlio Celeri](https://github.com/TulioCeleri)      | 222026715 | 16%               |
-| 13/05/2025 | 0.1     | Diagramação - 1.2, 2.2                         | [João Paulo](https://github.com/joaombc)            | 202045141 | 16%               |
-| 13/05/2025 | 0.1     | Ajuste das perguntas e objetivos - 1.1, 2.1    | [Pedro Ferreira Gondim](https://github.com/G0ndim)  | 222026377 | 16%               |
-| 13/05/2025 | 0.1     | Abstraction Sheet - 1.3                        | [João Pedro](https://github.com/JoaoPedrooSS)       | 222006258 | 16%               |
-| 13/05/2025 | 0.1     | Abstraction Sheet - 2.3                        | [Pedro Ferreira Gondim](https://github.com/guinuto) | 222026377 | 16%               |
+| 13/05/2025 | 0.1     | Create initial documentation                   | [Lucas Antunes](https://github.com/LucasGSAntunes)  | 190091681 | --%               |
+| 14/05/2025 | 0.2     | Create, format and review documentation        | [Lucas Antunes](https://github.com/LucasGSAntunes)  | 190091681 | 16%               |
+|            |         | Definição do Objetivo do Agromart - Introdução | [Túlio Celeri](https://github.com/TulioCeleri)      | 222026715 | 16%               |
+|            |         | Diagramação - 1.2, 2.2                         | [João Paulo](https://github.com/joaombc)            | 202045141 | 16%               |
+|            |         | Ajuste das perguntas e objetivos - 1.1, 2.1    | [Pedro Ferreira Gondim](https://github.com/G0ndim)  | 222026377 | 16%               |
+|            |         | Abstraction Sheet - 1.3                        | [João Pedro](https://github.com/JoaoPedrooSS)       | 222006258 | 16%               |
+|            |         | Abstraction Sheet - 2.3                        | [Pedro Ferreira Gondim](https://github.com/guinuto) | 200038028 | 16%               |
 
