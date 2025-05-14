@@ -2,7 +2,7 @@
 
 ---
 
-Este é o repositório de documentação da equipe Grace Hopper.
+Este é o repositório de documentação da equipe Grace Hopper da UnB.
 
 ---
 
